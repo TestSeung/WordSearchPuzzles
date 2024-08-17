@@ -7,4 +7,6 @@
   };
 </script>
 
+<link rel="stylesheet" href="pages/reset.css" />
+<!-- path에 따른 라우팅 -->
 <Router {routes} />
